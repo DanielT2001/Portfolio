@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: #fffff4;
+}
+
+@media (min-width: 768px) {
+    .styled-scrollbars::-webkit-scrollbar {
+        width: 5px;
+        /* Mostly for vertical scrollbars */
+        height: 10px;
+        /* Mostly for horizontal scrollbars */
+    }
+
+}
+
+@media (min-width: 1024px) {
+    .styled-scrollbars::-webkit-scrollbar {
+        width: 10px;
+        /* Mostly for vertical scrollbars */
+        height: 10px;
+        /* Mostly for horizontal scrollbars */
+    }
+
+}
+
+@keyframes back {
+    100% {
+        background-position: 2000px 0;
+    }
+}
+
+.styled-scrollbars::-webkit-scrollbar-thumb {
+    /* Foreground */
+    border-radius: 5px;
+    -webkit-box-shadow: inset 0 0 3px rgba(0, 0, 0, .3);
+    background: #ffba46;
+}
+
+.styled-scrollbars::-webkit-scrollbar-track {
+    /* Background */
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background: #000;
+}
+
+#hero {
+    background-image: url('../public/images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#NurtHero {
+    background-image: url('../public/images/ProjectNurtureMe/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#page {
+    background-image: url('../public/images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.font-charm {
+    font-family: 'Charm', cursive;
+}
+
+.font-merienda {
+    font-family: 'Merienda', cursive;
+}
+
+.font-grenze {
+    font-family: 'Grenze Gotisch', cursive;
+}
+
+.font-play {
+    font-family: 'Schibsted Grotesk', sans-serif;
+}
+
+.text-germania {
+    font-family: 'Germania One', cursive;
+}
+
+.text-merienda {
+    font-family: 'Merienda', cursive;
+}
+
+.text-play {
+    font-family: 'Schibsted Grotesk', sans-serif;
+}
