@@ -68,7 +68,7 @@ function NurtureMe() {
                                 <div className="absolute bottom-full group-hover:bottom-0 duration-[250ms] bg-black z-0 w-full h-full"></div>
                                 <div className="absolute top-full group-hover:top-0 duration-[250ms] bg-black z-0 w-full h-full"></div>
                             </a>
-                            <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden">
+                            <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?type=design&node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden">
                                 <div className="p-4 group-hover:text-white duration-500 font-play z-10 relative text-center">
                                     View Figma Prototype
                                 </div>
@@ -133,7 +133,7 @@ function NurtureMe() {
                             <div className="font-play font-medium text-gray-950">In today's busy world, people often forget to water their plants, resulting in plant damage or loss. Additionally, users may want to conserve water while still maintaining healthy plants. Therefore, there is a need for an app interface that can not only control the electronic watering device but also serve as a watering reminder, even when the device is not connected. The app must be user-friendly and intuitive for users who may not be tech-savvy.</div>
                         </div>
                     </div>
-                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden">
+                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?type=design&node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden">
                         <div className="p-4 group-hover:text-white duration-500 font-play z-10 relative">
                             View Figma Prototype
                         </div>
@@ -156,7 +156,7 @@ function NurtureMe() {
                             </div>
                         </div>
                     </div>
-                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden">
+                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?type=design&node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden">
                         <div className="p-4 group-hover:text-white duration-500 font-play z-10 relative">
                             View Figma Prototype
                         </div>
@@ -179,7 +179,7 @@ function NurtureMe() {
                             <div className="font-play font-medium text-gray-950">My method was centered around creating <span className='font-bold'>a comfortable flow and easy interaction </span>with the device for users. I conducted research and interviews to understand users' pain points and needs. Prioritizing the user experience allowed me to create a design that meets functional requirements and delivers a satisfying experience.</div>
                         </div>
                     </div>
-                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden mt-6 lg:mt-0">
+                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?type=design&node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden mt-6 lg:mt-0">
                         <div className="p-4 group-hover:text-white duration-500 font-play z-10 relative">
                             View Figma Prototype
                         </div>
@@ -641,7 +641,7 @@ function NurtureMe() {
                             <div className="absolute bottom-full group-hover:bottom-0 duration-[250ms] bg-black z-0 w-full h-full"></div>
                             <div className="absolute top-full group-hover:top-0 duration-[250ms] bg-black z-0 w-full h-full"></div>
                         </a>
-                        <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden">
+                        <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?type=design&node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden">
                             <div className="p-4 group-hover:text-white duration-500 font-play z-10 relative">
                                 View Figma Prototype
                             </div>
@@ -698,7 +698,7 @@ function NurtureMe() {
                             </div>
                         </div>
                     </div>
-                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden mt-12 lg:mt-0 mb-12 lg:mb-0">
+                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?type=design&node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden mt-12 lg:mt-0 mb-12 lg:mb-0">
                         <div className="p-4 group-hover:text-white duration-500 font-play z-10 relative">
                             View Figma Prototype
                         </div>
@@ -735,7 +735,7 @@ function NurtureMe() {
                             </div>
                         </div>
                     </div>
-                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden mb-6">
+                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?type=design&node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden mb-6">
                         <div className="p-4 group-hover:text-white duration-500 font-play z-10 relative">
                             View Figma Prototype
                         </div>
@@ -782,7 +782,7 @@ function NurtureMe() {
                             <img src="../images/ProjectNurtureMe/devFeatures/5.png" alt="" className="" />
                         </div>
                     </div>
-                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden mt-12">
+                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?type=design&node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden mt-12">
                         <div className="p-4 group-hover:text-white duration-500 font-play z-10 relative">
                             View Figma Prototype
                         </div>
@@ -799,7 +799,7 @@ function NurtureMe() {
                     </div>
                     <div className="text-xl font-play text-gray-900 pb-6">In the near future, I plan to collaborate with my team and add more features to make the product's scope wider, which in turn would increase users' satisfaction and the clients value and revenue. Some examples include expansions to web applications. These features would let the users access their plants from more devices. I am looking forward to building these features and improve the site's functionality and user experience.</div>
                     <div className="text-xl font-play text-gray-900 pb-6 self-start">I invite you to look at the complete prototype and experience and enjoy the concept yourself.</div>
-                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden mt-12 mb-48">
+                    <a href='https://www.figma.com/proto/vmPBTsMxTDXrnOFpkoaIt2/NurtureMe.?type=design&node-id=78-1228&scaling=scale-down&page-id=78%3A1219&starting-point-node-id=78%3A1220' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden mt-12 mb-48">
                         <div className="p-4 group-hover:text-white duration-500 font-play z-10 relative">
                             View Figma Prototype
                         </div>
