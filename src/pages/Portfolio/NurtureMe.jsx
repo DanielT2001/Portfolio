@@ -433,7 +433,7 @@ function NurtureMe() {
                     </div>
                 </div>
                 <div className="px-4 lg:px-8 xl:px-36 pb-8 flex flex-col items-center">
-                    <img src="../images/ProjectNurtureMe/flows/site.jpg" alt="" className="rounded" />
+                    <img src="../images/ProjectNurtureMe/flows/site.png" alt="" className="rounded" />
                 </div>
                 <div className="text-2xl text-center text-gray-800 font-play mt-12 mb-4">Website</div>
                 <div className="px-4 lg:px-12 pt-8 pb-24 flex flex-col lg:flex-row gap-x-4">
@@ -475,18 +475,18 @@ function NurtureMe() {
                     <div className="text-xl font-play italic text-gray-900 pb-24">*These Colors and Fonts were carefully chosen and tested for accessibility and contrast. Color blinded, long sighted and short sighted users were taken into consideration. And all of them has passed the necessary tests.</div>
                     <div className="flex flex-col gap-y-4 lg:flex-row gap-x-4 mb-6">
                         <div className="">
-                            <img src="../images/ProjectNurtureMe/flows/guide1.jpg" alt="" className="rounded" />
+                            <img src="../images/ProjectNurtureMe/flows/guide1.png" alt="" className="rounded" />
                         </div>
                         <div className="">
-                            <img src="../images/ProjectNurtureMe/flows/guide2.jpg" alt="" className="rounded" />
+                            <img src="../images/ProjectNurtureMe/flows/guide2.png" alt="" className="rounded" />
                         </div>
                     </div>
                     <div className="flex gap-x-4 lg:gap-x-0 mx-auto mb-6 lg:w-1/2 w-fit">
                         <div className="hidden lg:block">
-                            <img src="../images/ProjectNurtureMe/flows/guide3.jpg" alt="" className="rounded" />
+                            <img src="../images/ProjectNurtureMe/flows/guide3.png" alt="" className="rounded" />
                         </div>
                         <div className="lg:hidden lg:w-0">
-                            <img src="../images/ProjectNurtureMe/flows/guide4.jpg" alt="" className="rounded" />
+                            <img src="../images/ProjectNurtureMe/flows/guide4.png" alt="" className="rounded" />
                         </div>
                     </div>
                 </div>
