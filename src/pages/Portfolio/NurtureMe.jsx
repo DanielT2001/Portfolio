@@ -61,7 +61,7 @@ function NurtureMe() {
                         <div className="text-xl text-[#ffba46] font-play mb-2">Mobile App and Web Design</div>
                         <div className="text-gray-800 font-play mb-12">NurtureMe. is a new home automation tool that can be used to monitor, control and take care of plants by measuring and adjusting their moisture levels.</div>
                         <div className="flex justify-center space-x-6 mx-auto">
-                            <a href='nurtureme/page' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden">
+                            <a href='nurtureme/page' target='_blank' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden">
                                 <div className="p-4 group-hover:text-white duration-500 font-play z-10 relative text-center">
                                     Landing Page
                                 </div>
@@ -108,9 +108,9 @@ function NurtureMe() {
                         <div className="font-play font-medium text-gray-950"><span className='font-bold'>Client:</span> NurtureMe. Home Automation Inc.</div>
                         <div className="font-play font-medium text-gray-950"><span className='font-bold'>Project Length:</span> 45 Day Sprint</div>
                         <div className="font-play font-medium text-gray-950"><span className='font-bold'>Team:</span> Daniel Teshome 😉</div>
-                        <div className="font-play font-medium text-gray-950"><span className='font-bold'>Tools:</span> Figma, Maze, Adobe Photoshop, Adobe Lightroom, Visual Studio Code</div>
-                        <div className="font-play font-medium text-gray-950"><span className='font-bold'>Responsibilities:</span> User Researches, Business Goals and Value Proposals, Branding & Identity, User Personas, Sitemaps, User Journeys, High Fidelity Wireframes and Prototypes, Style guides, Web Development.</div>
-                        <div className="font-play font-medium text-gray-950"><span className='font-bold'>Roles:</span> Product Designer, UX Researcher, Graphic Designer, Web Developer</div>
+                        <div className="font-play font-medium text-gray-950"><span className='font-bold'>Tools:</span> Figma, Maze, Adobe Photoshop, Adobe Lightroom, Visual Studio Code, General Social Media Platforms</div>
+                        <div className="font-play font-medium text-gray-950"><span className='font-bold'>Responsibilities:</span> User Researches, Business Goals and Value Proposals, Branding & Identity, User Personas, Sitemaps, User Journeys, High Fidelity Wireframes and Prototypes, Style guides, Web Development, Marketing Funnels.</div>
+                        <div className="font-play font-medium text-gray-950"><span className='font-bold'>Roles:</span> Product Designer, UX Researcher, Graphic Designer, Web Developer, Digital Marketer</div>
                     </div>
                     <div className="flex space-x-4 lg:w-1/2 mt-12 lg:mt-0">
                         <div className="z-10">
@@ -200,7 +200,7 @@ function NurtureMe() {
                             <li className="list-disc">Generate revenue</li>
                         </ul>
                     </div>
-                    <div className="text-lg font-play font-medium text-gray-950 mb-6">I also proposed a landing page as a side project to the mobile UI/UX design, which was approved for its potential to increase revenue, user engagement and future expansions. The landing page offers benefits such as improved search engine visibility, social media sharing, and a comprehensive overview of the app's features. This project was approved after presenting a comprehensive plan, including design mockups and a timeline for completion. It's an exciting opportunity to elevate the app's success and provide users with a more immersive experience.</div>
+                    <div className="text-lg font-play font-medium text-gray-950 mb-6">I also proposed a Landing page & Social Media Marketing as side projects to the mobile UI/UX Design Project, which were approved for their potential to capture new customers, increase revenue, user engagement and future expansions. The landing page offers benefits such as improved search engine visibility, social media sharing, and a comprehensive overview of the app's features. This project was approved after presenting a comprehensive plan, including design mockups and a timeline for completion. It's an exciting opportunity to elevate the app's success and provide users with a more immersive experience.</div>
                 </div>
                 <div className="px-4 lg:px-8 xl:px-36 py-24 flex flex-col space-y-16 items-center ">
                     <div className="w-fit text-5xl text-gray-800 font-merienda">Research & Insights</div>

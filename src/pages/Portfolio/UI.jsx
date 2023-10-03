@@ -49,8 +49,8 @@ function UI() {
                 <div className="px-4 lg:px-8 xl:px-36 pb-12 flex flex-col lg:flex-row space-y-2 lg:space-y-0 lg:space-x-4 items-center my-auto">
                     <div className="lg:w-1/2 mt-12 lg:mt-32 xl:mt-0">
                         <div className="text-3xl lg:text-6xl text-[#ffba46] font-merienda mb-2">UI Design Works</div>
-                        <div className="text-xl text-[#ffba46] font-play mb-2">Simple UI and Web Design Projects</div>
-                        <div className="text-gray-800 font-play mb-2 lg:mb-12">I have a passion for creating intuitive and visually striking interfaces that enhance the user experience. In my portfolio, you will see a variety of projects that demonstrate my skills in UI UX design, from websites to mobile apps. But these next projects were done while learning, others while freelancing for teams or just out of personal curiosity. Although they may not all be entirely UX and UI Designs, they showcase my versatility as a designer and my willingness to explore new design challenges.</div>
+                        <div className="text-xl text-[#ffba46] font-play mb-2">Simple UI Web Design and Digital Marketing Projects</div>
+                        <div className="text-gray-800 font-play mb-2 lg:mb-12">I have a passion for creating intuitive and visually striking interfaces that enhance the user experience. In my portfolio, you will see a variety of projects that demonstrate my skills in UI UX Design and Digital MArketing, from websites to mobile apps. But these next projects were done while learning, others while freelancing for small to mid-sized teams or just out of personal curiosity. Although they may not all be purely UX and UI Designs, they showcase my versatility as a designer, a developer, a marketer and my willingness to explore new design challenges.</div>
                     </div>
                     <div className="flex -space-x-8 items-center w-full lg:w-11/12">
                         <div className="w-10/12 hover:scale-110 duration-500">

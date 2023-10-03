@@ -47,7 +47,7 @@ function Home() {
                     </div>
                 </header>
                 <h1 className="text-4xl md:text-7xl font-grenze font-bold mx-auto w-fit mt-32 md:mt-[72px] select-none text-[#ffba46]">Daniel Teshome 🐱‍💻</h1>
-                <div className="w-[90vw] md:w-[50vw] mx-auto text-center text-gray-800 font-medium mt-20 sm:mt-24 font-play">I am a Product Designer with a passion for crafting digital experiences that are both visually striking and intuitive. I firmly believe that great design is a never-ending pursuit, and I am always seeking out new ways to improve and evolve the products I create.</div>
+                <div className="w-[90vw] md:w-[50vw] mx-auto text-center text-gray-800 font-medium mt-20 sm:mt-24 font-play">I am a Product Designer and a Digital Marketer with a passion for crafting digital experiences that are both visually striking and intuitive. I firmly believe that great design is a never-ending pursuit, and I am always seeking out new ways to improve and evolve the products I create.</div>
                 <div className="flex space-x-4 mt-20 sm:mt-24 md:mt-16 mx-auto w-fit">
                     <a href='https://www.linkedin.com/in/daniel-w-designer' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden">
                         <div className="p-4 text-zinc-800 group-hover:text-white duration-500 font-play z-10 relative">
@@ -79,9 +79,9 @@ function Home() {
                     </a>
                 </div>
                 <div className="flex space-x-4 mt-4 mx-auto w-fit">
-                    <a href='./Daniel_Teshome_RESUME.pdf' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden w-fit">
+                    <a href='./Daniel_Teshome_Resume_CV.pdf' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden w-fit">
                         <div className="p-4 group-hover:text-white duration-500 font-play z-10 relative">
-                            Resume
+                            Resume/CV
                         </div>
                         <div className="absolute bottom-full group-hover:bottom-0 duration-[250ms] bg-black z-0 w-full h-full"></div>
                         <div className="absolute top-full group-hover:top-0 duration-[250ms] bg-black z-0 w-full h-full"></div>

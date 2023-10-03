@@ -1,6 +1,7 @@
 import React from 'react'
 import { FaTelegramPlane, FaFacebookF, FaLinkedin } from 'react-icons/fa'
 import { CgMaze } from 'react-icons/cg'
+import { IoShareSocialOutline } from 'react-icons/io5'
 import { IoLogoWhatsapp } from 'react-icons/io'
 import { SiAdobecreativecloud, SiAdobexd, SiFigma, SiGreensock, SiReact, SiTailwindcss } from 'react-icons/si'
 import { Link } from 'react-router-dom';
@@ -32,7 +33,7 @@ function About() {
                             <div className="text-3xl font-play font-bold  text-gray-700 mb-6 self-start"><span className='font-grenze text-5xl text-[#ffba46]'>Daniel Teshome</span>.</div>
                             <div className="px-2 md:px-12 py-6 bg-zinc-100 bg-opacity-80 shadow-2xl">
                                 <div className="text-lg font-play tracking-normal text-center text-gray-900">
-                                    I am a seasoned Product Designer and Web Developer with a relentless passion for creating exceptional digital experiences. I pride myself on being a user advocate and believe that user-centered design is the key to building products that truly resonate with people. I am not content with just meeting expectations - I strive to exceed them by pushing the envelope with my designs and constantly seeking out new challenges. With a proven track record of success in fast-paced, collaborative environments, I excel at working alongside developers, stakeholders, and other designers to deliver world-class products that delight users.
+                                    I am a seasoned Product Designer, Web Developer and Digital Marketer with a relentless passion for creating exceptional digital experiences. I pride myself on being a user advocate and believe that user-centered design is the key to building products that truly resonate with people. I am not content with just meeting expectations - I strive to exceed them by pushing the envelope with my designs and constantly seeking out new challenges. With a proven track record of success in fast-paced, collaborative environments, I excel at working alongside developers, stakeholders, and other designers to deliver world-class products that delight users.
                                 </div>
                             </div>
                             <div className="flex space-x-4 mt-24 md:mt-16 mx-auto w-fit">
@@ -89,6 +90,9 @@ function About() {
                             <div className="w-20">
                                 <SiFigma className='text-5xl text-zinc-800 mx-auto' />
                             </div>
+                            <div className="w-20">
+                                <IoShareSocialOutline className='text-5xl text-zinc-800 mx-auto' />
+                            </div>
                         </div>
                         <div className="flex gap-x-8 2xl:items-center">
                             <div className="w-20">
@@ -105,7 +109,7 @@ function About() {
                 </div>
             </div>
             <div className="min-h-screen flex flex-col justify-between items-center">
-                <div className="px-4 lg:px-36 py-4 pt-24 mb-2 font-grenze text-4xl text-center text-gray-800">How I make your Products Great</div>
+                <div className="px-4 lg:px-36 py-4 pt-24 mb-2 font-grenze text-4xl text-center text-gray-800">How I make your Products & Results Great</div>
                 <div className="px-4 lg:px-36 text-xl text-gray-800 font-play mx-auto w-fit select-none text-center">"There's always room for improvement."</div>
                 <div className="px-4 lg:px-36 py-12 grid grid-cols-2 md:grid-cols-3 gap-2 md:gap-4">
                     <div className="flex flex-col space-y-4 rounded-xl shadow bg-gray-50 lg:hover:shadow-xl lg:hover:bg-[#ffba46] lg:hover:text-white lg:hover:-translate-y-4 lg:hover:-translate-x-4 duration-500 p-2 md:p-4 text-play">
