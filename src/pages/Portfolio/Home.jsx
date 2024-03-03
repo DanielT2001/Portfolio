@@ -79,9 +79,16 @@ function Home() {
                     </a>
                 </div>
                 <div className="flex space-x-4 mt-4 mx-auto w-fit">
-                    <a href='./Daniel_Teshome_Resume_CV.pdf' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden w-fit">
+                    <a href='https://danielteshome.netlify.app/static/media/DanielT_CV.012e576512c183de2bb1.pdf' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden w-fit">
                         <div className="p-4 group-hover:text-white duration-500 font-play z-10 relative">
-                            Resume/CV
+                            Resume
+                        </div>
+                        <div className="absolute bottom-full group-hover:bottom-0 duration-[250ms] bg-black z-0 w-full h-full"></div>
+                        <div className="absolute top-full group-hover:top-0 duration-[250ms] bg-black z-0 w-full h-full"></div>
+                    </a>
+                    <a href='https://danielteshome.netlify.app/' target='_blank' rel='noreferrer' className="shadow group hover:shadow-xl duration-500 rounded border border-zinc-400 relative overflow-hidden w-fit">
+                        <div className="p-4 group-hover:text-white duration-500 font-play z-10 relative">
+                            New Portfolio
                         </div>
                         <div className="absolute bottom-full group-hover:bottom-0 duration-[250ms] bg-black z-0 w-full h-full"></div>
                         <div className="absolute top-full group-hover:top-0 duration-[250ms] bg-black z-0 w-full h-full"></div>
